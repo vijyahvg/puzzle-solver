@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/puzzle-solver/static/css/main.e829d42c.css",
-    "main.js": "/puzzle-solver/static/js/main.610bc507.js",
-    "static/js/625.daaf3965.chunk.js": "/puzzle-solver/static/js/625.daaf3965.chunk.js",
+    "main.css": "/puzzle-solver/static/css/main.3871c6f0.css",
+    "main.js": "/puzzle-solver/static/js/main.0f0e313e.js",
     "static/js/453.5c696592.chunk.js": "/puzzle-solver/static/js/453.5c696592.chunk.js",
     "index.html": "/puzzle-solver/index.html",
-    "main.e829d42c.css.map": "/puzzle-solver/static/css/main.e829d42c.css.map",
-    "main.610bc507.js.map": "/puzzle-solver/static/js/main.610bc507.js.map",
-    "625.daaf3965.chunk.js.map": "/puzzle-solver/static/js/625.daaf3965.chunk.js.map",
+    "main.3871c6f0.css.map": "/puzzle-solver/static/css/main.3871c6f0.css.map",
+    "main.0f0e313e.js.map": "/puzzle-solver/static/js/main.0f0e313e.js.map",
     "453.5c696592.chunk.js.map": "/puzzle-solver/static/js/453.5c696592.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e829d42c.css",
-    "static/js/main.610bc507.js"
+    "static/css/main.3871c6f0.css",
+    "static/js/main.0f0e313e.js"
   ]
 }
